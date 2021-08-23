@@ -22,3 +22,6 @@
   <div class="text-center">Create an account? <a href="register.html">Sign Up</a></div>
 </div>
 </template>
+<style scoped src="../assets/style/lr.css">
+/* @import '../assets/style/lr.css'; */
+</style>

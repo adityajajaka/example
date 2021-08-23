@@ -28,3 +28,6 @@
   <div class="text-center">Already have an account? <a href="login.html">Sign in</a></div>
 </div>
 </template>
+<style scoped src="../assets/style/lr.css">
+/* @import '../assets/style/lr.css'; */
+</style>
